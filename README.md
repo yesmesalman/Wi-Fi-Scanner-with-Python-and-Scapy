@@ -10,4 +10,4 @@ Wi-Fi Scanner with Python and Scapy
 
 ### run script
 
--   ``` python ./wiFiScanner -i wlan0 ```
+-   ``` python wifi-scanner.py -i wlan0 ```
